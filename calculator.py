@@ -8,8 +8,8 @@ print("4 divide")
 
 choice = input("enter your choice (1,2,3,4):  \n")
 
-num1 = float(input("enter your number: "))
-num2 = float(input("enter your number: "))
+num1 = float(input("enter your number 1: "))
+num2 = float(input("enter your number 2: "))
 
 if choice == '1':
     print(num1+num2)
